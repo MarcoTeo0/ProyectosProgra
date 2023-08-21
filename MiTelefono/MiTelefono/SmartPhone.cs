@@ -59,13 +59,13 @@ namespace MiTelefono
         public int NoAltavoces;
         public bool Jack;
         //COOMS
-        public string WLAN;
+        public float WLAN;
         public float Bluetooth;
         public string Positioning;
         public bool NFC;
         public bool Infraredport;
         public bool radio;
-        public string USBType;
+        public float USBType;
         public string Sensors;
         public int mAhBattery;
         public int ChargeSupport;
