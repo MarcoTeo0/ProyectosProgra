@@ -16,12 +16,16 @@
             pista1.nombre = "Hermanos Rodriguez";
                 pista1.longitud = 4.303f;
 
-
-
             ferrari.PonerGasolina();
+
             ferrari.Arrancar();
             mcLaren.Arrancar();
 
+            ferrari.Acelerar(50);
+            mcLaren.Acelerar(60);
+
+            ferrari.Frenar(30);
+            mcLaren.Frenar(30);
 
 
             pista1.Competir(ferrari, mcLaren);
