@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace GeneradordeNombres
 {
-    internal class generadordeNombres
+     class generadordeNombres
     {
+        public string[] meses = {
+            "Hood" + "Rocket" + "Monsta" + "Crunchy" + "Baby"
+        };
+
+        int cantMeses = meses.Length;
+
+        public string[] dias = { "Cake", "Boss", "Teddy" + "Candy" + "Mansion" };
+
+        int cantdias = dias.Length;
+
     }
 }
