@@ -4,17 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Auto ferrari = new Auto();
+            Coche ferrari = new Coche();
             ferrari.modelo = "Ferrari F1";
             ferrari.velodidad = 120;
 
-            Auto mcLaren = new Auto();
-            mcLaren.modelo = "MC 2443";
+            Coche mcLaren = new Coche();
+            mcLaren.modelo = "MC 2443"
             mcLaren.velodidad = 140;
 
             PistaCarreras pista1 = new PistaCarreras();
-            pista1.nombre = "Hermanos Rodriguez";
+            pista1.nombre = "Hermanos Rodriguez"
                 pista1.longitud = 4.303f;
+<<<<<<< HEAD
 
             ferrari.PonerGasolina();
 
@@ -29,6 +30,9 @@
 
 
             pista1.Competir(ferrari, mcLaren);
+=======
+            pista1.Competir(ferrir, mcLaren);
+>>>>>>> parent of 730cfde (xd)
             //presinar Enter para continuar
             Console.ReadLine();
 
