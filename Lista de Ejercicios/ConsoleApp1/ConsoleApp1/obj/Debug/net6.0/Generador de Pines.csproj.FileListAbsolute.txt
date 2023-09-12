@@ -1,0 +1,14 @@
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Generador de Pines.exe
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Generador de Pines.deps.json
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Generador de Pines.runtimeconfig.json
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Generador de Pines.dll
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Generador de Pines.pdb
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Generador de Pines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Generador de Pines.AssemblyInfoInputs.cache
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Generador de Pines.AssemblyInfo.cs
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Generador de Pines.csproj.CoreCompileInputs.cache
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Generador de Pines.dll
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Generador de Pines.dll
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Generador de Pines.pdb
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Generador de Pines.genruntimeconfig.cache
+C:\Users\marco.teopanicant\Documents\GitHub\ProyectosProgra\Lista de Ejercicios\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Generador de Pines.dll
